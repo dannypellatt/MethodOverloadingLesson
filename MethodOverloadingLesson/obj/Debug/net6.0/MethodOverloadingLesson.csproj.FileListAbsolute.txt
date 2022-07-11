@@ -1,0 +1,15 @@
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/bin/Debug/net6.0/MethodOverloadingLesson
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/bin/Debug/net6.0/MethodOverloadingLesson.deps.json
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/bin/Debug/net6.0/MethodOverloadingLesson.runtimeconfig.json
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/bin/Debug/net6.0/MethodOverloadingLesson.dll
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/bin/Debug/net6.0/MethodOverloadingLesson.pdb
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/obj/Debug/net6.0/MethodOverloadingLesson.csproj.AssemblyReference.cache
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/obj/Debug/net6.0/MethodOverloadingLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/obj/Debug/net6.0/MethodOverloadingLesson.AssemblyInfoInputs.cache
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/obj/Debug/net6.0/MethodOverloadingLesson.AssemblyInfo.cs
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/obj/Debug/net6.0/MethodOverloadingLesson.csproj.CoreCompileInputs.cache
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/obj/Debug/net6.0/MethodOverloadingLesson.dll
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/obj/Debug/net6.0/refint/MethodOverloadingLesson.dll
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/obj/Debug/net6.0/MethodOverloadingLesson.pdb
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/obj/Debug/net6.0/MethodOverloadingLesson.genruntimeconfig.cache
+/Users/danielpellatt/Desktop/Repos/MethodOverloadingLesson/MethodOverloadingLesson/obj/Debug/net6.0/ref/MethodOverloadingLesson.dll
